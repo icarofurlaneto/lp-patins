@@ -3,6 +3,7 @@ section.hero {
   width: 100%;
   padding: 2.5rem 2rem;
   margin-inline: auto;
+  gap: 7rem;
 
   display: flex;
   align-items: center;
@@ -81,9 +82,9 @@ section.hero {
 
   & > div:nth-child(2) {
     display: block;
-    width: 100%;
-    max-width: 30.5rem;
+    width: 30.5rem;
     height: 30.5rem;
+    flex-shrink: 0;
 
     & .content {
       width: 100%;
@@ -95,11 +96,6 @@ section.hero {
       position: absolute;
       width: 100%;
 
-    }
-
-    & img {
-      position: absolute;
-      width: 100%;
     }
 
     & img[src*="ellipse"] {
@@ -131,7 +127,7 @@ section.hero {
 
     & img[src*="stars-2"] {
       max-width: 2.5rem;
-      right: 0;
+      right: 3%;
       bottom: 35%;
 
       transform: translateX(400%);
@@ -146,7 +142,7 @@ section.hero {
     transform: translateX(-20px);
   }
   100% {
-    transform: translateY(0);
+    transform: translateX(0);
   }
 }
 
