@@ -1,6 +1,7 @@
 # LP Patins
 
-![LP Patins](https://via.placeholder.com/800x400?text=LP+Patins)
+<img width="1424" alt="Screenshot 2025-07-07 at 19 21 12" src="https://github.com/user-attachments/assets/e8517479-7030-4663-b349-728906ac6345" />
+
 
 ## Sobre
 
@@ -26,11 +27,6 @@ cd lp-patins
 ## Uso
 
 Esta landing page pode ser personalizada para qualquer negócio relacionado à patinação. Modifique o conteúdo, imagens e estilo para combinar com sua marca.
-
-## Capturas de tela
-
-![Captura 1](https://via.placeholder.com/400x200?text=Captura+1)
-![Captura 2](https://via.placeholder.com/400x200?text=Captura+2)
 
 ## Contribuindo
 
