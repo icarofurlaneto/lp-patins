@@ -19,7 +19,7 @@ body {
     --highlights: #000000;
     --background: #FAFAFA;
 
-    --ff-base: "Montserrat", sans-serif;
+    --ff-base: 'Montserrat', sans-serif;
 
     --text-sm: 0.875rem; /* 14px */
     --text-base: 1rem; /* 16px */
@@ -28,7 +28,7 @@ body {
 }
 
 html, button {
-    font: 500 1rem/1.5 "Montserrat", sans-serif;
+    font: 400 1rem/1.5 'Montserrat', sans-serif;
 }
 
 .container {
